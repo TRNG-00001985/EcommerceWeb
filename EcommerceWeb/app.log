@@ -1,0 +1,18 @@
+2024-09-01 10:11:14 [main] INFO  dao.CartDAOClass - Cart Fetching...
+2024-09-01 10:11:14 [main] INFO  dao.CartDAOClass - Retrieved 0 carts
+2024-09-01 10:11:22 [main] INFO  dao.CategoryDAOClass - Fetching Category..
+2024-09-01 10:11:22 [main] WARN  dao.CategoryDAOClass - Category is Empty
+2024-09-01 10:11:35 [main] INFO  dao.OrderItemDAOClass - Retrived 0 successfully
+2024-09-01 10:11:47 [main] INFO  dao.OrdersDAOClass - Fetching Orders...
+2024-09-01 10:11:47 [main] INFO  dao.OrdersDAOClass - Orders Retrieved 0 Successfully
+2024-09-01 10:12:05 [main] INFO  dao.ProductDAOClass - Fetching all products
+2024-09-01 10:12:32 [main] INFO  dao.UserRegistrationDAOClass - Retrieved 0 users
+2024-09-01 10:12:40 [main] INFO  dao.WishlistDAOClass - Fetching Wishlist...
+2024-09-01 10:12:40 [main] INFO  dao.WishlistDAOClass - Wishlist Retrieved 0 Successfully
+2024-09-01 12:20:16 [main] INFO  dao.CartDAOClass - Cart Fetching...
+2024-09-01 12:20:16 [main] INFO  dao.CartDAOClass - Retrieved 0 carts
+2024-09-01 12:20:24 [main] INFO  dao.CategoryDAOClass - Fetching Category..
+2024-09-01 12:20:24 [main] INFO  dao.CategoryDAOClass - Retrieved 1 Category
+2024-09-01 12:20:35 [main] INFO  dao.OrderItemDAOClass - Retrived 0 successfully
+2024-09-01 16:28:18 [main] INFO  dao.CartDAOClass - Cart Fetching...
+2024-09-01 16:28:18 [main] INFO  dao.CartDAOClass - Retrieved 0 carts
